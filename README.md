@@ -1,0 +1,2 @@
+# Project_Electronics_Adjustable-Output-Voltage-Regulator-using-7805
+Fixed-Output voltage regulator is an important component in most electronic appliances. Fixed voltage regulation is important for microcontrollers and microprocessors. For microcontroller applications, 5V fixed voltage regulators are used. Normally 7805 voltage regulator is used in such applications. 7805 comes under 78xx series.
