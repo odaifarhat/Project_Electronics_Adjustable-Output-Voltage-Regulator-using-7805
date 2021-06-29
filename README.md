@@ -23,7 +23,7 @@ Capacitors    0.33 micro Farad at input side and 0.1 micro Farad at output side.
 # Circuit connection steps:
 
 
-![TsIQv61405271880](https://user-images.githubusercontent.com/56201060/123807394-7caaf600-d8f8-11eb-9e7e-7f32a2581baa.jpg)
+![TsIQv61405271880](https://user-images.githubusercontent.com/56201060/123808628-97319f00-d8f9-11eb-9160-88a1d3fc151a.jpg)
 
 7805 is capable of handling an input voltage from 7.5V to 25V.
 
@@ -36,11 +36,6 @@ R1 is fixed and R2 is variable.
 I kept R1 at 420 Ohms. Similarly a 0 - 200 Ohm variable resistor is used as R2.
 
 Output voltage is normally measured using a multimeter.
-
-
-Output voltage varies with the R2 resistance value. Output voltage can be calculated using a simple formula.
-
-![Screenshot from 2014-07-13 23_38_48](https://user-images.githubusercontent.com/56201060/123806540-b7605e80-d8f7-11eb-87a5-f3e52e1b5406.png)
 
 
 Vo        -  Output Voltage
@@ -75,7 +70,7 @@ Substituting these values in the above formula, we will get Io. Io will be same 
 calculate the value of  resistance R2 to be used for a desired value of Vo. Vo measured for various values of R2 using multimeter is given below.
 
 
-![Gb3TTf1405277672](https://user-images.githubusercontent.com/56201060/123807325-6e5cda00-d8f8-11eb-9088-2d1115a4d90b.jpg)
+![Gb3TTf1405277672](https://user-images.githubusercontent.com/56201060/123808594-913bbe00-d8f9-11eb-83c0-8c7c33fea36b.jpg)
 
 
 From the table, it is clear that, Vo increase with increase in R2. So we will get a variable output voltage from 5.07V to 8.14V.
